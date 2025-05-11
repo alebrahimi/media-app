@@ -1,0 +1,11 @@
+
+# Better Auth
+BETTER_AUTH_SECRET=dqDC03sGjMS8RBacHLgpXabdMvQjKHht
+NEXT_PUBLIC_BASE_URL="http://localhost:3001"
+BETTER_AUTH_URL=http://localhost:3001
+
+# Direct connection to the database. Used for migrations.
+DIRECT_URL="postgres://postgres:Aa123456780@localhost:5432/media-db"
+
+# Drizzle schema: Comment this out to use the public schema
+# DB_SCHEMA_NAME="next_better_auth"
